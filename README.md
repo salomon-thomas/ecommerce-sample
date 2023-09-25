@@ -7,13 +7,13 @@ This is a simple e-commerce app built with Laravel.
 1. Clone the repository to your local machine:
 
    ```
-   git clone https://github.com/your-username/simple-ecommerce-app.git
+   git clone https://github.com/your-username/ecommerce-sample.git
    ```
 
 2. Navigate to the project directory:
 
    ```
-   cd simple-ecommerce-app
+   cd ecommerce-sample
    ```
 
 3. Install composer dependencies:
